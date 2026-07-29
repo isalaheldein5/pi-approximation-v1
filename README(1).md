@@ -52,15 +52,14 @@ Ramanujan's series converges significantly faster than the Euler approximation.
 
 ### Correct Decimal Digits
 
-The graph below shows how the number of correct decimal digits increases as more terms are added.
 
-![Correct Decimal Digits](pi_correct_digits_comparison.png)
+<img width="977" height="595" alt="image" src="https://github.com/user-attachments/assets/859a2e4f-045a-4313-a19d-05935095e304" />
+
+
 
 ### Approximation Error
 
-The graph below compares the absolute error of each approximation on a logarithmic scale.
-
-![Approximation Error](pi_error_comparison_log.png)
+<img width="1051" height="600" alt="Screenshot 2026-07-29 231043" src="https://github.com/user-attachments/assets/56b48da1-2521-4bc0-808b-e1cb26194928" />
 
 ---
 
